@@ -1,0 +1,12 @@
+c:\users\user\source\repos\final\final\bin\Debug\final.exe.config
+c:\users\user\source\repos\final\final\bin\Debug\final.exe
+c:\users\user\source\repos\final\final\bin\Debug\final.pdb
+c:\users\user\source\repos\final\final\obj\Debug\final.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\final\final\obj\Debug\final.Form1.resources
+c:\users\user\source\repos\final\final\obj\Debug\final.Properties.Resources.resources
+c:\users\user\source\repos\final\final\obj\Debug\final.csproj.GenerateResource.Cache
+c:\users\user\source\repos\final\final\obj\Debug\final.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\final\final\obj\Debug\final.exe
+c:\users\user\source\repos\final\final\obj\Debug\final.pdb
+C:\Users\User\source\repos\final\final\obj\Debug\final.Form2.resources
+C:\Users\User\source\repos\final\final\obj\Debug\final.Form3.resources
